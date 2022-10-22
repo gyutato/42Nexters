@@ -1,6 +1,11 @@
 # 42Nexters
 
-📚 Next.js 스터디 by [42Cabi](https://github.com/innovationacademy-kr/42cabi) 프론트 팀
+📚 Next.js 스터디 by [42Cabi](https://github.com/innovationacademy-kr/42cabi) **v3** 프론트 팀:
+
+[@gyuwlee](https://github.com/gyutato) | 
+[@hybae](https://github.com/HyeonsikBae) | 
+[@jaesjeon](https://github.com/Oris482) | 
+[@seuan](https://github.com/aseungbo)
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> <img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white">
 
